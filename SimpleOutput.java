@@ -1,0 +1,1 @@
+public class SimpleOutput { public static void main(String[] args) { String code = "public class SimpleOutput { public static void main(String[] args) { String code = \"%s\"; System.out.printf(code, code); }}";System.out.printf(code, code); }}
